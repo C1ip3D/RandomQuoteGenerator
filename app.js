@@ -19,10 +19,10 @@ const quotes = [
 	"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. -Dr. Seuss",
 	"Love the life you live. Live the life you love. -Bob Marley",
 	"Think Big - Sachin Shetti",
-	"If you cannot walk then run - MLK",
+	"If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward - MLK",
 	"We must learn to live together as brothers or perish together as fools. - Martin Luther King Jr.",
 	"Be the change you wish to see in the world. - Mahatma Gandhi",
-	"I have a dream that one day this nation will rise up and live out the true meaning of its creed: 'We hold these truths to be self-evident, that all men are created equal.' - Martin Luther King Jr."
+	"I have a dream that one day this nation will rise up and live out the true meaning of its creed: 'We hold these truths to be self-evident, that all men are created equal.' - MLK"
 ]
   
   function generateQuote() {
